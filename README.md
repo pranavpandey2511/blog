@@ -9,7 +9,7 @@ https://pranavpandey2511.github.io/fastpages/
 # My Blog
 
 
-_powered by [fastpages](https://github.com/fastai/fastpages)_
+_powered by [fastpages](https://github.com/fastai/blog)_
 
 
 ## What To Do Next?
