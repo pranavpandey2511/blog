@@ -4,8 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![image alt <]({{ site.baseurl }}/images/profile_photo.jpg "")
-
+![]({{ site.baseurl }}/images/profile_photo.jpg)
 
 Expertise: Open to learning more.
 Creating AI tools and products that are going to have huge impact at a very large scale, is what I am after.
